@@ -1,0 +1,1 @@
+Epoch [0/300]: Best accuracy@0.5147956787224048! Current accuracy@0.5147956787224048 
